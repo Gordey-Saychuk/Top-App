@@ -1,0 +1,49 @@
+.s{
+  font-size: 12px;
+  font-weight: 600;
+  
+}
+
+.m{
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.tag{
+  display: inline-block;
+}
+
+.fiol{
+  border: 1px solid var(--fiol);
+  color: var(--fiol);
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+.red{
+
+  background-color:#DE0000;  
+  color: var(--white);
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+.gray{
+  background-color:var(--gray);  
+  color: var(--white);
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+.grean{
+  background-color:var(--ligth-grean);  
+  color: var(--grean);
+  padding: 5px 10px;
+  border-radius: 20px;
+}
+
+.ghost{
+  border: 1px solid var(--black);
+  padding: 5px 10px;
+  border-radius: 20px;
+}

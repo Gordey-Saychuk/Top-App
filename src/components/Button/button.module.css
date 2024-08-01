@@ -1,0 +1,27 @@
+.btn{
+  font-size: 20px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.main{
+  background-color: var(--fiol);
+  border: none;
+  color: var(--white);
+}
+ 
+.ghost{
+  background-color: transparent  !important;
+  border: none;
+}
+
+.down{
+  transform: rotate(90deg); 
+  margin-left: 10px;
+  display: inline-block;
+
+}
+
+.next{
+  margin-left: 10px;
+}
